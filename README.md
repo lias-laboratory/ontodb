@@ -196,7 +196,7 @@ This section lists all scientific papers related to the OntoDB ontology based da
 
 ## Software licence agreement
 
-Details the license agreement of PARAD: [LICENCE](LICENCE)
+Details the license agreement of OntoDB: [LICENCE](LICENCE)
 
 ## Historic Contributors
 
