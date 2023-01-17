@@ -14,6 +14,8 @@ Several tools and libraries have been developped around the OntoDB ontology base
 
 ## Overview
 
+This section presents an historic review of OntoDB ontology based database tool.
+
 ### PLIB
 
 In the 90s, to allow the exchange of electronic catalogues of industrial components, an ontology model for technical domain was developed and then published as an international standard known as PLIB (ISO 13584-42: 98). Then, a model to exchange objects described in terms of such ontologies was developed and also standardized (ISO 13584-25:2003). In the beginning of 2001, the PLIB model being finished, a new project called OntoDB was launched. It aimed to store, exchange, integrate and process industrial catalogues modeled as ontology-based data associated with a formal ontology. PLIB-based ontologies were first targeted. Then, the decision to also to support other ontology models such that OWL or DAML+OIL has been taken. We outline below both the PLIB ontology model and the model for PLIB-based instance data.
@@ -74,7 +76,7 @@ Project website: http://www-sop.inria.fr/edelweiss/projects/ewok/
 
 ## Publications
 
-This page lists all scientific papers related to the OntoDB ontology based database tool.
+This section lists all scientific papers related to the OntoDB ontology based database tool.
 
 ### Books
 
