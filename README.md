@@ -6,11 +6,11 @@ OntoDB is an ontology based database tool, support of multiple ontology models w
 
 Several tools and libraries have been developped around the OntoDB ontology based database tool. Two versions of these libraries and tools are available : version 1 (historic version) and version 2 (optimized and refactored version).
 
-* OntoDB schema (version 1, version 2): an ontology based database tool, support of multiple ontology models within ontology based database
-* OntoQL (version 1, version 2): is an exploitation language for ontology based databases (OBDB).
-* OntoQLPlus (version 1, version 2): is an OntoQL editor.
-* OntoQLConsole (only for version 1): is an OntoQL interactive terminal.
-* BeMoRe (only for version 1): Behaviour Model Repository, an extending Persistent Meta-Modeling Systems with Behavioral Semantics.
+* OntoDB schema ([version 1](https://github.com/lias-laboratory/ontodbschema_v1), [version 2](https://github.com/lias-laboratory/ontodbschema_v2)): an ontology based database tool, support of multiple ontology models within ontology based database
+* OntoQL ([version 1](https://github.com/lias-laboratory/ontoql_v1), [version 2](https://github.com/lias-laboratory/ontoql_v2)): is an exploitation language for ontology based databases (OBDB).
+* OntoQLPlus ([version 1](https://github.com/lias-laboratory/ontoqlplus_v1), [version 2](https://github.com/lias-laboratory/ontoqlplus_v2)): is an OntoQL editor.
+* OntoQLConsole (only for [version 1](https://github.com/lias-laboratory/ontoqlconsole_v1)): is an OntoQL interactive terminal.
+* BeMoRe (only for [version 1](https://github.com/lias-laboratory/bemore)): Behaviour Model Repository, an extending Persistent Meta-Modeling Systems with Behavioral Semantics.
 
 ## Overview
 
