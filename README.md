@@ -2,6 +2,16 @@
 
 OntoDB is an ontology based database tool, support of multiple ontology models within ontology based database.
 
+## Related tools and libraries
+
+Several tools and libraries have been developped around the OntoDB ontology based database tool. Two versions of these libraries and tools are available : version 1 (historic version) and version 2 (optimized and refactored version).
+
+* OntoDB schema (version 1, version 2): an ontology based database tool, support of multiple ontology models within ontology based database
+* OntoQL (version 1, version 2): is an exploitation language for ontology based databases (OBDB).
+* OntoQLPlus (version 1, version 2): is an OntoQL editor.
+* OntoQLConsole (only for version 1): is an OntoQL interactive terminal.
+* BeMoRe (only for version 1): Behaviour Model Repository, an extending Persistent Meta-Modeling Systems with Behavioral Semantics.
+
 ## Overview
 
 ### PLIB
@@ -62,16 +72,6 @@ Duration: 36 months
 Type: RNTL
 Project website: http://www-sop.inria.fr/edelweiss/projects/ewok/
 
-## OntoDB tools
-
-Several tools and libraries have been developped around the OntoDB ontology based database tool. Two versions of these libraries and tools are available : version 1 (historic version) and version 2 (optimized and refactored version).
-
-* OntoDB schema (version 1, version 2): an ontology based database tool, support of multiple ontology models within ontology based database
-* OntoQL (version 1, version 2): is an exploitation language for ontology based databases (OBDB).
-* OntoQLPlus (version 1, version 2): is an OntoQL editor.
-* OntoQLConsole (only for version 1): is an OntoQL interactive terminal.
-* BeMoRe (only for version 1): Behaviour Model Repository, an extending Persistent Meta-Modeling Systems with Behavioral Semantics.
-
 ## Publications
 
 This page lists all scientific papers related to the OntoDB ontology based database tool.
@@ -101,8 +101,6 @@ This page lists all scientific papers related to the OntoDB ontology based datab
 * Guy Pierra, Hondjack Dehainsala, Yamine Aït-Ameur and Ladjel Bellatreche, Base de données à base ontologique : principe et mise en œuvre, Ingénierie des systèmes d'information, 2005 ([link](https://www.lias-lab.fr/publications/7198/2005-I-Pierra.pdf))
 
 ### Conferences
-
-h2. Conferences
 
 * Kevin ROYER, Ladjel BELLATRECHE, Stéphane JEAN, One Semantic Data Warehouse Fits both Electrical Vehicle Data and their Business Processes, Proceedings of the 17th International IEEE Conference on Intelligent Transportation Systems (ITSC 2014), 2014
 
