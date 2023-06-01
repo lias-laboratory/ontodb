@@ -194,7 +194,7 @@ This section lists all scientific papers related to the OntoDB ontology based da
 
 * Yamine Ait-Ameur, Chimène Fankam, Stéphane Jean, Guy Pierra and Eric Sardet, Outils et Services de gestion des Ontologies - Lot 2 - Projet ANR E-Wok-Hub, LISI / ENSMA, 2007
 
-## Software licence agreement
+## Software license agreement
 
 Details the license agreement of OntoDB: [LICENSE](LICENSE)
 
